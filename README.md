@@ -4,7 +4,7 @@
 ![Dashboard Screenshot](https://github.com/leomartagle/Superstore_Sales_Dashboard/blob/main/Main%20Dashboard.png) 
 
 ## 📝 Project Overview
-This project provides a comprehensive analysis of a global retail chain's performance (Cloud 9 Superstore). The goal was to transform raw transactional data into a dynamic, interactive dashboard that allows stakeholders to monitor key performance indicators (KPIs), identify regional trends, and pinpoint areas of financial loss.
+This project provides a comprehensive analysis of a global retail chain's performance (Superstore). The goal was to transform raw transactional data into a dynamic, interactive dashboard that allows stakeholders to monitor key performance indicators (KPIs), identify regional trends, and pinpoint areas of financial loss.
 
 ## 🚀 Key Features & Insights
 *   **Executive Summary:** At-a-glance tracking of Total Revenue ($2.30M), Total Profit ($286K), and Profit Margin (12.47%).
