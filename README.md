@@ -1,10 +1,19 @@
 # Superstore_Sales_Dashboard
- Interactive Power BI dashboard analyzing $2.3M in retail sales data. Features include profitability tracking, Top-N filtering, and geographic distribution analysis for the "Cloud 9" Superstore.
+
+## 📖 Project Documentation
+### Data Source
+The dataset used is the classic **SuperStore_Sales_Dataset.csv** dataset, which simulates a large retail chain's sales and financial records over a 4-year period.
 
 ![Dashboard Screenshot](https://github.com/leomartagle/Superstore_Sales_Dashboard/blob/main/Main%20Dashboard.png) 
 
 ## 📝 Project Overview
 This project provides a comprehensive analysis of a global retail chain's performance (Superstore). The goal was to transform raw transactional data into a dynamic, interactive dashboard that allows stakeholders to monitor key performance indicators (KPIs), identify regional trends, and pinpoint areas of financial loss.
+
+### Key Questions Answered
+1. Which product sub-categories are contributing to a negative profit margin?
+2. Which states and cities are our primary revenue drivers?
+3. How does the choice of shipping mode impact the volume of orders?
+4. What are the seasonal trends in sales performance from 2014-2017?
 
 ## 🚀 Key Features & Insights
 *   **Executive Summary:** At-a-glance tracking of Total Revenue ($2.30M), Total Profit ($286K), and Profit Margin (12.47%).
