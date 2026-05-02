@@ -1,7 +1,7 @@
 # Superstore_Sales_Dashboard
  Interactive Power BI dashboard analyzing $2.3M in retail sales data. Features include profitability tracking, Top-N filtering, and geographic distribution analysis for the "Cloud 9" Superstore.
 
-![Dashboard Screenshot](https://github.com/leomartagle/Superstore_Sales_Dashboard#:~:text=4%20Commits-,Main%20Dashboard.png,-Add%20files%20via) 
+![Dashboard Screenshot](https://github.com/leomartagle/Superstore_Sales_Dashboard/blob/main/Main%20Dashboard.png) 
 
 ## 📝 Project Overview
 This project provides a comprehensive analysis of a global retail chain's performance (Cloud 9 Superstore). The goal was to transform raw transactional data into a dynamic, interactive dashboard that allows stakeholders to monitor key performance indicators (KPIs), identify regional trends, and pinpoint areas of financial loss.
